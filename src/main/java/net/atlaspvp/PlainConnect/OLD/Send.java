@@ -1,10 +1,11 @@
-package net.atlaspvp.PlainConnect.RabbitMQ;
+package net.atlaspvp.PlainConnect.OLD;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
 
 public class Send {
+    /*
 
     private final static String QUEUE_NAME = "connect";
 
@@ -19,5 +20,7 @@ public class Send {
             System.out.println(" [x] Sent '" + message + "'");
         }
     }
+    */
+
 
 }
